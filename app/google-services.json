@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "113952608662",
+    "project_id": "practica2dam",
+    "storage_bucket": "practica2dam.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113952608662:android:a46b747b8d84ac7c184db7",
+        "android_client_info": {
+          "package_name": "dev.esan.pc02moviles2220014222200168"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtJ9Tv4rYfbf5dFQbNE5sk4L6SjMqkB94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
